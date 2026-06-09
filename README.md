@@ -145,28 +145,6 @@ To reproduce the analysis:
 
 No precomputed result files are required.
 
-## Citation
 
-If you use this dataset or code, please cite the associated manuscript:
-
-```bibtex
-@article{zhang_inverse_perovskite_ml,
-  title   = {Interpretable Machine Learning with Physically Informed Feature Engineering for Modeling the Simulated Performance of Inverse (Anti-)Perovskite Solar Cells},
-  author  = {Zhang, Zhongyu and Li, Changxiang and Zhou, Bao and Li, Jinxiao and Xie, Zaixin and Duan, Zhuoqi and Hu, Yongmao},
-  journal = {Journal of Physical Chemistry C},
-  year    = {2026},
-  note    = {Manuscript under review}
-}
-```
-
-Please update the citation information after the manuscript is accepted or published.
-
-## License
-
-Unless otherwise specified, the code is released under the MIT License. The dataset is provided for academic research use. Please cite the associated manuscript when using the data or code.
-
-## Contact
-
-For questions about the dataset or code, please contact the corresponding author listed in the manuscript.
 # physics-informed-inverse-perovskite-ml
 physics-informed-inverse-perovskite-ml
